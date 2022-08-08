@@ -20,9 +20,12 @@ const Messages = () => {
 
 const Message = (props) => {
     return (
-        <div key={props.id} className='message--container'>
-            <img className='message--img' src={'./images/' + props.image} alt={props.title}></img>
-        </div>
+        <>
+            <div key={props.id} className='message--container'>
+                <img className='message--img' src={'./images/' + props.image} alt={props.title}></img>
+            </div>
+            <span className='message--banner'></span>
+        </>
     )
 }
 
