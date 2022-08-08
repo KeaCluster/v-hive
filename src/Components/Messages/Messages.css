@@ -1,0 +1,18 @@
+.messages--container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.message--container {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    margin-top: 200px;
+    border: 10px solid #B24080;
+}
+
+.message--img {
+    max-width: 800px;
+    min-width: 500px;
+    max-height: 1000px;
+}

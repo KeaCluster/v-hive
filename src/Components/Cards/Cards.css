@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap');
+
+.cards--container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.card--container {
+    display: flex;
+    max-width: 600px;
+    position: relative;
+    padding: 30px;
+    margin: 20px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    box-shadow: #893160 0px 10px 10px;
+}
+
+.card--body {
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.card--txt{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 1.5rem;
+    text-align: justify;
+}
+
+.card--footer {
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 1.5rem;
+    text-align: left;
+} 
+
+.card--footer > h1 {
+    margin: 0px;
+}
+

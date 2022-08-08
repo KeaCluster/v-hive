@@ -13,20 +13,41 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+
+/* Color palette */
+
+/* https://colorhunt.co/palette/b93160d75281eed180fff89c */
+
+.bg--primary {
+ background-color: #3F0713;
 }
 
-.App-link {
-  color: #61dafb;
+.bg--secondary {
+  background-color: #B24080;
 }
+
+.bg--third {
+ background-color: #ECAC5D;
+}
+
+.bg--light {
+  background-color: #FFF9B2;
+}
+
+.txt--primary {
+  color: #3F0713;
+}
+.txt--secondary {
+  color: #B24080;
+}
+.txt--third {
+  color: #ECAC5D;
+}
+.txt--light {
+  color: #FFF9B2;
+}
+
+
 
 @keyframes App-logo-spin {
   from {
