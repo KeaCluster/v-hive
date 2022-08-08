@@ -31,6 +31,11 @@ const data = [
         image: "Fer_Mart.jpeg",
     },
     {
+        id: 19,
+        title: "Fer Orozco Message",
+        image: "Fer_Orozco.jpg",
+    },
+    {
         id: 7,
         title: "Francisco Message",
         image: "Francisco_B.jpeg",
