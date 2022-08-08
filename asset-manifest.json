@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/v-hive)/static/css/main.d61a094b.css",
+    "main.js": "/v-hive)/static/js/main.5cbfc235.js",
+    "static/js/787.0699ae3d.chunk.js": "/v-hive)/static/js/787.0699ae3d.chunk.js",
+    "static/media/Medalla_abeja_reina.png": "/v-hive)/static/media/Medalla_abeja_reina.52bb01b045771c3d672b.png",
+    "static/media/Medalla_abejil.png": "/v-hive)/static/media/Medalla_abejil.73a8652b6f732f46f2c4.png",
+    "static/media/background.jpeg": "/v-hive)/static/media/background.5dc9f999ec5a3b25407b.jpeg",
+    "index.html": "/v-hive)/index.html",
+    "main.d61a094b.css.map": "/v-hive)/static/css/main.d61a094b.css.map",
+    "main.5cbfc235.js.map": "/v-hive)/static/js/main.5cbfc235.js.map",
+    "787.0699ae3d.chunk.js.map": "/v-hive)/static/js/787.0699ae3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d61a094b.css",
+    "static/js/main.5cbfc235.js"
+  ]
+}
