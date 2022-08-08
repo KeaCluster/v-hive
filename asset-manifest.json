@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "C:/Program Files/Git/v-hive/static/css/main.c309cba4.css",
-    "main.js": "C:/Program Files/Git/v-hive/static/js/main.874e081a.js",
-    "static/js/787.0699ae3d.chunk.js": "C:/Program Files/Git/v-hive/static/js/787.0699ae3d.chunk.js",
-    "static/media/Medalla_abeja_reina.png": "C:/Program Files/Git/v-hive/static/media/Medalla_abeja_reina.52bb01b045771c3d672b.png",
-    "static/media/Medalla_abejil.png": "C:/Program Files/Git/v-hive/static/media/Medalla_abejil.73a8652b6f732f46f2c4.png",
-    "static/media/background.jpeg": "C:/Program Files/Git/v-hive/static/media/background.5dc9f999ec5a3b25407b.jpeg",
-    "index.html": "C:/Program Files/Git/v-hive/index.html",
-    "main.c309cba4.css.map": "C:/Program Files/Git/v-hive/static/css/main.c309cba4.css.map",
-    "main.874e081a.js.map": "C:/Program Files/Git/v-hive/static/js/main.874e081a.js.map",
-    "787.0699ae3d.chunk.js.map": "C:/Program Files/Git/v-hive/static/js/787.0699ae3d.chunk.js.map"
+    "main.css": "https://KeaCluster.github.io/v-hive/static/css/main.81d61e7c.css",
+    "main.js": "https://KeaCluster.github.io/v-hive/static/js/main.a7dd66c7.js",
+    "static/js/787.0699ae3d.chunk.js": "https://KeaCluster.github.io/v-hive/static/js/787.0699ae3d.chunk.js",
+    "static/media/Medalla_abeja_reina.png": "https://KeaCluster.github.io/v-hive/static/media/Medalla_abeja_reina.52bb01b045771c3d672b.png",
+    "static/media/Medalla_abejil.png": "https://KeaCluster.github.io/v-hive/static/media/Medalla_abejil.73a8652b6f732f46f2c4.png",
+    "static/media/background.jpeg": "https://KeaCluster.github.io/v-hive/static/media/background.5dc9f999ec5a3b25407b.jpeg",
+    "index.html": "https://KeaCluster.github.io/v-hive/index.html",
+    "main.81d61e7c.css.map": "https://KeaCluster.github.io/v-hive/static/css/main.81d61e7c.css.map",
+    "main.a7dd66c7.js.map": "https://KeaCluster.github.io/v-hive/static/js/main.a7dd66c7.js.map",
+    "787.0699ae3d.chunk.js.map": "https://KeaCluster.github.io/v-hive/static/js/787.0699ae3d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c309cba4.css",
-    "static/js/main.874e081a.js"
+    "static/css/main.81d61e7c.css",
+    "static/js/main.a7dd66c7.js"
   ]
 }
