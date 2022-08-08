@@ -21,7 +21,7 @@ const Messages = () => {
 const Message = (props) => {
     return (
         <div key={props.id} className='message--container'>
-            <img className='message--img' src={'../../images/' +props.image} alt={props.title}></img>
+            <img className='message--img' src={'/images/' +props.image} alt={props.title}></img>
         </div>
     )
 }
