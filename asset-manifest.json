@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "https://KeaCluster.github.io/v-hive/static/css/main.81d61e7c.css",
-    "main.js": "https://KeaCluster.github.io/v-hive/static/js/main.01f5bdf5.js",
+    "main.js": "https://KeaCluster.github.io/v-hive/static/js/main.cf8c3754.js",
     "static/js/787.0699ae3d.chunk.js": "https://KeaCluster.github.io/v-hive/static/js/787.0699ae3d.chunk.js",
     "static/media/Medalla_abeja_reina.png": "https://KeaCluster.github.io/v-hive/static/media/Medalla_abeja_reina.52bb01b045771c3d672b.png",
     "static/media/Medalla_abejil.png": "https://KeaCluster.github.io/v-hive/static/media/Medalla_abejil.73a8652b6f732f46f2c4.png",
     "static/media/background.jpeg": "https://KeaCluster.github.io/v-hive/static/media/background.5dc9f999ec5a3b25407b.jpeg",
     "index.html": "https://KeaCluster.github.io/v-hive/index.html",
     "main.81d61e7c.css.map": "https://KeaCluster.github.io/v-hive/static/css/main.81d61e7c.css.map",
-    "main.01f5bdf5.js.map": "https://KeaCluster.github.io/v-hive/static/js/main.01f5bdf5.js.map",
+    "main.cf8c3754.js.map": "https://KeaCluster.github.io/v-hive/static/js/main.cf8c3754.js.map",
     "787.0699ae3d.chunk.js.map": "https://KeaCluster.github.io/v-hive/static/js/787.0699ae3d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81d61e7c.css",
-    "static/js/main.01f5bdf5.js"
+    "static/js/main.cf8c3754.js"
   ]
 }
